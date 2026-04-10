@@ -1,5 +1,5 @@
 <h1>💫 About Me</h1>
-I am Kushal Duwadi, a Computer Engineering graduate and aspiring Full-Stack Developer with interests in Data Analysis. I build scalable MERN stack applications and work with SQL/Python for data insights. Dedicated to optimizing system performance and delivering high-priority, end-to-end features.
+I am Kushal Duwadi, a Computer Engineering graduate and  Full-Stack Developer with interests in Data Analysis. I build scalable MERN stack applications and work with SQL/Python for data insights. Dedicated to optimizing system performance and delivering high-priority, end-to-end features.
 
 - 👩‍💻 Backend & Core Languages: Python, JavaScript, Node.js, Java, C/C++
 - ⭐Frameworks: Django, Express.js, ReactJs,  
